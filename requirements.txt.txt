@@ -1,0 +1,16 @@
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.40.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+scipy>=1.11.0
+
+# generator
+fonttools>=4.50.0
+
+# Notebook
+jupyter>=1.0.0
+ipykernel>=6.25.0
